@@ -61,4 +61,4 @@ The `man` command provides access to the manual pages for various commands. It o
 * `man command_name`: Display the manual page for a specific command.
 
 ## Conclusion:
-Mastering basic Bash commands is essential for developers working in Unix-like environments. The commands
+Mastering basic Bash commands is essential for developers working in Linux environments. The commands covered in this post provide a solid foundation for navigating and manipulating files and directories, as well as performing various tasks on the command line. As you become more proficient with Bash, you can explore additional commands and options to further enhance your productivity and efficiency in your development workflows.
