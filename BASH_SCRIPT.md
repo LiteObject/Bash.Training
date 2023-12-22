@@ -3,6 +3,7 @@
 ## How to write a simple script
 
 ## How to execute your script
+    chmod +x your_script_name.sh
 
 ## What is Shebang or Hashbang
 
